@@ -4,9 +4,9 @@ public class BookingControler {
 	
 	public Package[] buildPackages
 	(
-//			Flight[] flights,
-//			Hotel[] hotels,
-//			Tour[] tours,
+			Flight[] flights,
+			Hotel[] hotels,
+			Tour[] tours,
 			LocalDate arrival,
 			LocalDate departure, 
 			String location, 
